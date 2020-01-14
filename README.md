@@ -1,6 +1,10 @@
 # googlemapreview
 구글 맵 리뷰 크롤링
 
+**-THIS IS ONLY FOR STUDY USAGE
+-연구용 코드입니다**
+
+
 크롬 개발자 도구를 통해 모든 리뷰 크롤링
 
 https://zzsza.github.io/development/2019/03/12/crawling-in-developer-tools-console/
